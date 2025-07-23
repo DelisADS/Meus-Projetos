@@ -1,6 +1,6 @@
-# 💻 Projeto: Página Pessoal - Fundamentos de Desenvolvimento de Software
+#  Projeto: Página Pessoal - Fundamentos de Desenvolvimento de Software
 
-## 🧑 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto foi desenvolvido como parte da disciplina *Fundamentos de Desenvolvimento de Software, ministrada pela professora **Luciane Kanashiro* no curso de *Análise e Desenvolvimento de Sistemas*.
 
@@ -8,7 +8,7 @@ O objetivo foi criar uma página web simples utilizando *HTML, **CSS* e *JavaScr
 
 ---
 
-## 📋 Requisitos Atendidos
+##  Requisitos Atendidos
 
 A página contém os seguintes elementos obrigatórios:
 
@@ -26,7 +26,7 @@ A página contém os seguintes elementos obrigatórios:
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - HTML5  
 - CSS3  
@@ -35,7 +35,7 @@ A página contém os seguintes elementos obrigatórios:
 
 ---
 
-## 👨‍🎓 Autor
+##  Autor
 
 Delis A. Dos Santos
 Curso: Análise e Desenvolvimento de Sistemas
